@@ -1,6 +1,5 @@
 # mod-placer_myserver
-## Places the selected mod for my server to mods folder
-
+### The Required mods for my server: InfoyRealm.aternos.me:20104
 ### To be removed  later after Extracting!
 
 
